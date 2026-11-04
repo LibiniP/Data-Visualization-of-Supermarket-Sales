@@ -10,7 +10,7 @@ This project transforms 1,000+ raw supermarket transaction records into a two-pa
 
 ### Page 1: Overview
 
-![Overview Page](Supermarketsales_(1).png)
+![Overview Page](Supermarketsales_1_.png)
 
 **Key metrics at a glance:**
 - **Total Transactions:** 1K
@@ -30,7 +30,7 @@ This project transforms 1,000+ raw supermarket transaction records into a two-pa
 
 ### Page 2: Customer Feedback
 
-![Customer Feedback Page](Supermarketsales_(2).png)
+![Customer Feedback Page](Supermarketsales_2_.png)
 
 **Key metrics at a glance:**
 - **Average Rating:** 6.97 / 10
